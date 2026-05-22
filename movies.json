@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "genre": "Ciencia Ficción",
+    "year": 2010,
+    "synopsis": "Un ladrón que roba secretos corporativos a través del uso de la tecnología de compartir sueños, recibe la tarea inversa de plantar una idea en la mente de un CEO.",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/9gk7adHYeZST6Yv99X9w7brNi7c.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "genre": "Acción / Drama",
+    "year": 2008,
+    "synopsis": "Cuando la amenaza conocida como el Joker causa estragos y caos en la gente de Gotham, Batman debe aceptar una de las mayores pruebas psicológicas y físicas para luchar contra la injusticia.",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/qJ2tWw7B66bXmCH9xoSRwA2N8wZ.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "genre": "Aventura / Drama",
+    "year": 2014,
+    "synopsis": "Un equipo de exploradores viaja a través de un agujero de gusano en el espacio en un intento por asegurar la supervivencia de la humanidad.",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/gEU2QG0wOhvHGv9jCI6Flvlmv6p.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Spiderman: Into the Spider-Verse",
+    "director": "Bob Persichetti",
+    "genre": "Animación / Ciencia Ficción",
+    "year": 2018,
+    "synopsis": "El adolescente Miles Morales se convierte en el Spider-Man de su universo y debe unirse a cinco individuos con poderes arácnidos de otras dimensiones para detener una amenaza para todas las realidades.",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/iiZZ9w6wB87gZ0bRyWhZGSgZ2v6.jpg"
+  }
+]
